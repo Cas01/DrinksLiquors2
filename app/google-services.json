@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "502242450153",
+    "firebase_url": "https://drinks-liquors.firebaseio.com",
+    "project_id": "drinks-liquors",
+    "storage_bucket": "drinks-liquors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502242450153:android:06be63eb69f11a06",
+        "android_client_info": {
+          "package_name": "com.example.centro2.drinksliquors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502242450153-rurlm6dlr75ruugib1sa5gthmbt18umg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.centro2.drinksliquors",
+            "certificate_hash": "24a44a10904418181f46724f0f667acdb5792bf0"
+          }
+        },
+        {
+          "client_id": "502242450153-pi9fs96qffjndpaqsj1mh8ok000g205p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADRevmO4O-FMJoHC59eT6ayJEU0SiZLhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502242450153-pi9fs96qffjndpaqsj1mh8ok000g205p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
